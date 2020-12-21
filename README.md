@@ -18,5 +18,5 @@ Paper 2: Hierarchical Decision Making by Generating and Following Natural Langua
 > Youtube Video Link: https://youtu.be/6_zCrRY6HIs
 
 Presented By: Fatema Islam Meem 
-. ID: 17301011 
-. Department of Computer Science and Engineering BRAC University
+ID: 17301011 
+Department of Computer Science and Engineering BRAC University
